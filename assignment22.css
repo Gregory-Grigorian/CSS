@@ -1,0 +1,18 @@
+body {
+	background-color: green;
+	font-size: 18px;
+	font-family: "Helvetica Neue";
+	line-height: 1em;
+	font-weight: bold;
+}
+
+
+input {
+	outline: none;
+	font-family: caption;
+	border: 10px double #dedee0;
+	padding: 10px;
+	margin: 5% 0 0 0;
+	width: 200px;
+	border-radius: 50px 50px;
+}
